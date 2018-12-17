@@ -1,2 +1,7 @@
 C:\Users\abm8\source\repos\368.04a\368.04a\obj\Debug\368.04a.csprojAssemblyReference.cache
 C:\Users\abm8\source\repos\368.04a\368.04a\obj\Debug\368.04a.csproj.CoreCompileInputs.cache
+C:\Users\abm8\source\repos\368.04a\368.04a\bin\Debug\368.04a.exe.config
+C:\Users\abm8\source\repos\368.04a\368.04a\bin\Debug\368.04a.exe
+C:\Users\abm8\source\repos\368.04a\368.04a\bin\Debug\368.04a.pdb
+C:\Users\abm8\source\repos\368.04a\368.04a\obj\Debug\368.04a.exe
+C:\Users\abm8\source\repos\368.04a\368.04a\obj\Debug\368.04a.pdb
